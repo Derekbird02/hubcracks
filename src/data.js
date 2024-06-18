@@ -1,0 +1,21 @@
+export const data = [
+    { assetId: "24568954", active: 0 },
+    { assetId: "87654321", active: 1 },
+    { assetId: "98765432", active: 0 },
+    { assetId: "23456789", active: 1 },
+    { assetId: "45678901", active: 0 },
+    { assetId: "56789012", active: 1 },
+    { assetId: "67890123", active: 0 },
+    { assetId: "78901234", active: 1 },
+    { assetId: "89012345", active: 0 },
+    { assetId: "90123456", active: 1 },
+    { assetId: "12345678", active: 0 },
+    { assetId: "43210987", active: 1 },
+    { assetId: "54321098", active: 0 },
+    { assetId: "65432109", active: 1 },
+    { assetId: "76543210", active: 0 },
+    { assetId: "21098765", active: 1 },
+    { assetId: "32109876", active: 0 },
+    { assetId: "78906543", active: 1 },
+    { assetId: "89054321", active: 0 }
+];
